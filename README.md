@@ -24,7 +24,7 @@
 
 ## 🌐 Connect With Me :
 <p align="left">
-<a href="https://linkedin.com/in/hacker-boy-784190299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hacker-boy-784190299" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashish-kumar-6b1500249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-kumar-6b1500249" height="30" width="40" /></a>
 </p>
 
 <br>
